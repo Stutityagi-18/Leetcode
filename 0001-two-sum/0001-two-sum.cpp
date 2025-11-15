@@ -33,5 +33,26 @@ public:
             }
         }
         return {};
+        // sort(nums.begin(),nums.end());
+        // int n=nums.size();
+        // int l=0;
+        // int r=n-1;
+        // while(l<r)
+        // {
+        //    int sum=nums[l]+nums[r];
+        //     if(sum==target)
+        //     {
+        //         return {l,r};
+        //     }
+        //     else if(sum<target)
+        //     {
+        //         l++;
+        //     }
+        //     else{
+        //         r--;
+        //     }
+        // }
+        // return{};
+        // //this solution didnt work because we are first sorting an array so its returning[0,1] but this should return [1,2]
     }
 };

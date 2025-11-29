@@ -8,19 +8,21 @@ public:
             sum+=nums[i];
             
         }
-        int op=0;
-        if(sum%k==0)
-        {
-            return 0;
-        }
-        else
-        {
-            while(sum%k!=0)
-            {
-                sum--;
-                op++;
-            }
-        }
-        return op;
+        // int op=0;
+        // if(sum%k==0)
+        // {
+        //     return 0;
+        // }
+        // else
+        // {
+        //     while(sum%k!=0)
+        //     {
+        //         sum--;
+        //         op++;
+        //     }
+        // }
+        // return op;
+        int op=sum%k;
+        return op==0?0:op;
     }
 };

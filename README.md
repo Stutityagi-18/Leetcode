@@ -13,6 +13,7 @@
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Stutityagi-18/Leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0202-happy-number](https://github.com/Stutityagi-18/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Stutityagi-18/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Stutityagi-18/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Stutityagi-18/Leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/Stutityagi-18/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Stutityagi-18/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Stutityagi-18/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Stutityagi-18/Leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Stutityagi-18/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Stutityagi-18/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -33,6 +35,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Stutityagi-18/Leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/Stutityagi-18/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Stutityagi-18/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Stutityagi-18/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Stutityagi-18/Leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Stutityagi-18/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Stutityagi-18/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -45,12 +48,14 @@
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/Stutityagi-18/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Stutityagi-18/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Stutityagi-18/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Stutityagi-18/Leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Stutityagi-18/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Stutityagi-18/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Stutityagi-18/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Stutityagi-18/Leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Stutityagi-18/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Linked List

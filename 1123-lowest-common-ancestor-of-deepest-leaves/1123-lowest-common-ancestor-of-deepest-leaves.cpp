@@ -1,0 +1,55 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+unordered_map<int,int>mpp;
+int maxd=0;
+    TreeNode* lca(TreeNode* root)
+    {
+        if(root==NULL || mpp[root->val]==maxd)
+        {
+            return root;
+        }
+        TreeNode* left=lca(root->left);
+        TreeNode* right=lca(root->right);
+        if(left!=NULL &&  right!=NULL)
+        {
+            return root;
+        }
+        return left!=NULL?left:right;
+        // if(left!=NULL)
+        // {
+        //     return left;
+        // }
+        // if(right!=NULL)
+        // {
+        //     return right;
+        // }
+    }
+    void depth(TreeNode* root,int d)
+    {
+        if(root==NULL)
+        {
+            return;
+        }
+        maxd=max(maxd,d);
+        mpp[root->val]=d;
+        depth(root->left,d+1);
+       depth(root->right,d+1);
+
+
+    }
+    TreeNode* lcaDeepestLeaves(TreeNode* root) {
+        depth(root,0);
+        return lca(root);
+    }
+};

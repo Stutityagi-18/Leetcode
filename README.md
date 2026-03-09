@@ -12,6 +12,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Stutityagi-18/Leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0202-happy-number](https://github.com/Stutityagi-18/Leetcode/tree/main/0202-happy-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,9 +59,14 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/Stutityagi-18/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Stutityagi-18/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Stutityagi-18/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Stutityagi-18/Leetcode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->

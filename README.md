@@ -27,6 +27,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Stutityagi-18/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Stutityagi-18/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Stutityagi-18/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/Stutityagi-18/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Stutityagi-18/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Stutityagi-18/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Stutityagi-18/Leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -39,6 +40,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Stutityagi-18/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Stutityagi-18/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Stutityagi-18/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/Stutityagi-18/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Stutityagi-18/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Stutityagi-18/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Stutityagi-18/Leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -88,4 +90,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Stutityagi-18/Leetcode/tree/main/0202-happy-number/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Stutityagi-18/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
